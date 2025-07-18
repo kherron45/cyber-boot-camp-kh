@@ -5,11 +5,11 @@
 <h3 align="center">Im A Savvy Coders Student Learning About Cybersecurity!</h3>
 <br/>
 <div align="center">
- :telescope: I’m currently working on **Learing About Cybersecurity**
+ :telescope: I’m currently working on **Learning About Cybersecurity**
     
- :seedling: I’m currently learning **Gethub, Vs Code, Virtualbox, Cybersecurity + Ops**
+ :seedling: I’m currently learning **Github, Vs Code, Virtualbox, Cybersecurity + Ops**
  
-:speech_balloon: Ask me about **what im learning... or anything [here](https://github.com/kherron45/Keith-cyber-2025)**
+:speech_balloon: Ask me about **what I'm learning... or anything [here](https://github.com/kherron45/Keith-cyber-2025)**
 
 :zap: Fun fact **Phishing is the most common type of cyber crime, in 2022 more then 4.7 million phishing attacts occred **
  </div>
